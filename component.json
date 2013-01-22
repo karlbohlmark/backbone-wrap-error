@@ -1,0 +1,13 @@
+{
+  "name": "backbone-wrap-error",
+  "repo": "karlbohlmark/backbone-wrap-error",
+  "description": "wrap error extracted from backbone",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
